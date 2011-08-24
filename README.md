@@ -17,33 +17,33 @@ At this stage the module supports the following methods:
 ### init()
 Use this method after every creation of "new Athomium(data)" in order to initialize the parser and parse the Atom data. Returns nothing.
 ### getFeedId()
-- returns an object* that has the ID of the Atom feed.
+returns an object* that has the ID of the Atom feed.
 ### getFeedTitle()
-- returns an object* that has the Title of the Atom feed.
+returns an object* that has the Title of the Atom feed.
 ### getFeedSubtitle()
-- returns an object* that has the Subtitle of the Atom feed.
+returns an object* that has the Subtitle of the Atom feed.
 ### getFeedLinks()
-- returns an array** of objects that has the Link element of the Atom feed.
+returns an array** of objects that has the Link element of the Atom feed.
 ### getFeedLogo()
-- returns an object* that has the logo url of the Atom feed.
+returns an object* that has the logo url of the Atom feed.
 ### getFeedUpdated()
-- returns an object* that has the last time the feed was modified of the Atom feed.
+returns an object* that has the last time the feed was modified of the Atom feed.
 ### getFeedAuthors()
-- returns an array** of objects that has the author information. 
+returns an array** of objects that has the author information. 
 ### getFeedGenerator()
-- returns the feed generator object*.
+returns the feed generator object*.
 ### getFeedCategories()
-- returns an array** of objects that have the feed category.
+returns an array** of objects that have the feed category.
 ### getFeedContributors()
-- returns an array** of objects that have the feed contributors.
+returns an array** of objects that have the feed contributors.
 ### getFeedIcon()
-- returns icon image object* that provides visual identification for the feed.
+returns icon image object* that provides visual identification for the feed.
 ### getFeedRights()
-- returns object* that holds information about the rights held in and over the feed.
+returns object* that holds information about the rights held in and over the feed.
 ### getFeedExtensionElements()
-- returns array** of all extension elements of the feed.
+returns array** of all extension elements of the feed.
 ### getFeedEntries()
-- returns an array** of all feed entries.
+returns an array** of all feed entries.
 
 
 ### *
