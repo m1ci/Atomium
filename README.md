@@ -47,7 +47,7 @@ returns an array** of all feed entries.
 
 
 ### *
-    Returned single objects looks like this:
+    Returned single object looks like this:
 
     { name : "element name",
         attributes : {}
