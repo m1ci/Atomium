@@ -67,4 +67,4 @@ returns an array** of all feed entries.
 
 ## TODO
 - Entry parser
-- ...
+- ….
